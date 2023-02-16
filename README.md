@@ -33,7 +33,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=goresai19&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=goresai19&theme=dark&show_icons=true)]
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=goresai19&theme=dark&show_icons=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goresai19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
