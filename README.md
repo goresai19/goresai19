@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there ,I'm Sainath👋 </h1>
 
-- 🌱 I’m currently learning **ReactJS,NodeJS**
+- 🌱 I’m currently learning **MERN stack, DSA**
  - 📫 How to reach me: **goresai19@gmail.com**
-
+- 💞 I'm interested in competitive coding and open source contribution.
 <!--
 **goresai19/goresai19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
